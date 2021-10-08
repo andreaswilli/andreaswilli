@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreaswilli&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&theme=onedark" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaswilli&theme=onedark&hide=FreeMarker&layout=compact" />
+</div>
 
 <!--
 **andreaswilli/andreaswilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
